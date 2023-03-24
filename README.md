@@ -8,7 +8,7 @@ Madrid, Spain | +34 643 995 987 | rincon.santi@gmail.com
 :dart: Objective
 ---------
 
-Seeking a challenging NLP Engineer position to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting (LangChain framework), and tuning for LLM personalization since November.
+Seeking a challenging NLP Engineer position to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting ([LangChain framework](https://langchain.readthedocs.io/)), and tuning for LLM personalization since November.
 
 :sparkles: My Projects
 -----------
