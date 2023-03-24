@@ -1,12 +1,23 @@
 Santiago Rincon Martinez
 ========================
 
-Madrid, Spain | +34 643 995 987 | rincon.santi@gmail.com | LinkedIn: [Add your LinkedIn profile URL]
+Madrid, Spain | +34 643 995 987 | rincon.santi@gmail.com | LinkedIn: [https://www.linkedin.com/in/santiago-rincon-martinez/]
 
 Objective
 ---------
 
 Seeking a challenging NLP Engineer position to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting (LangChain framework), and tuning for LLM personalization since November.
+
+My projects
+-----------
+
+### Working On
+
+#### Yggdrasil: a huge prompting simplification app
+- [Hermod](github.com/rincon-santi/yggdrasil-hermod-documentation): conversational uses abstraction. Spokesman generation.
+
+Published content
+-----------------
 
 Education
 ---------
@@ -60,7 +71,7 @@ Other Skills & Accomplishments
 ------------------------------
 
 - Passion for sharing knowledge and developer advocacy
-- Published article: "Yggdrasil - A Big Data Walk" (2021)
+- Published article: ["Yggdrasil - A Big Data Walk"](https://telos.fundaciontelefonica.com/yggdrasil-un-paseo-por-el-big-data-de-la-mano-de-la-mitologia-nordica/) (2021) 
 - Medal of Honor for the Services to the University (2017)
 - Effective written communication skills, demonstrated through published work
 - Adaptability, learning passion, competitiveness, and result-orientation
