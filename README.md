@@ -1,7 +1,7 @@
 Santiago Rincon Martinez
 ========================
 
-Madrid, Spain | +34 643 995 987 | rincon.santi@gmail.com
+Madrid, Spain | rincon.santi@gmail.com
 
  :link:[https://www.linkedin.com/in/santiago-rincon-martinez/]
 
