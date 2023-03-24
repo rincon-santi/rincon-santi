@@ -22,7 +22,7 @@ Seeking a challenging NLP Engineer position to leverage my skills and experience
 :bulb: Published content
 -----------------
 
-- ["Yggdrasil - A Big Data Walk"](https://telos.fundaciontelefonica.com/yggdrasil-un-paseo-por-el-big-data-de-la-mano-de-la-mitologia-nordica/) 
+- [Yggdrasil - A Big Data Walk](https://telos.fundaciontelefonica.com/yggdrasil-un-paseo-por-el-big-data-de-la-mano-de-la-mitologia-nordica/) 
 - [MLOps: A Survival Guide](https://www.youtube.com/watch?v=1_9SZ8py3U0&t=132s) 
 
 :book: Education
