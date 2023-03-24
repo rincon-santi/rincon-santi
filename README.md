@@ -17,7 +17,7 @@ Seeking NLP challenges to leverage my skills and experience in deep learning and
 
 #### Yggdrasil: a huge prompting simplification app
 
-- [Hermod](https://github.com/rincon-santi/yggdrasil-hermod-documentation): conversational uses abstraction. Spokesman generation.
+- [Hermod](https://github.com/rincon-santi/yggdrasil-hermod-documentation): conversational abstraction. Spokesman generation.
 
 :bulb: Published content
 -----------------
