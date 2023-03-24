@@ -8,7 +8,7 @@ Madrid, Spain | rincon.santi@gmail.com
 :dart: Objective
 ---------
 
-Seeking a challenging NLP Engineer position to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting ([LangChain framework](https://langchain.readthedocs.io/)), and tuning for LLM personalization since November.
+Seeking NLP challenges to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting ([LangChain framework](https://langchain.readthedocs.io/)), and tuning for LLM personalization since November.
 
 :sparkles: My Projects
 -----------
@@ -35,7 +35,7 @@ Mathematics and Informatics Engineering (Double Degree) - Universidad Complutens
 
 ### Machine Learning Lead Engineer (2020 - Present)
 
-INLAB Digital
+[INLAB Digital](https://www.inlabdigital.com/)
 
 - Designed the data collection and exploitation process using GCP tools
 - Applied DevOps and MLOps principles
@@ -45,7 +45,7 @@ INLAB Digital
 
 ### Data Analysis Consultant (2019 - 2020)
 
-Indra Sistemas S.A. (Minsait)
+[Minsait](https://www.minsait.com/es)
 
 - Worked for BBVA client in data exploitation and financial risk analysis using statistical techniques
 - Developed and implemented data analysis and collection systems, data quality processes in Python
@@ -55,7 +55,7 @@ Indra Sistemas S.A. (Minsait)
 
 ### International Graduate Consultant (2018 - 2019)
 
-Akkademy S.A., Switzerland | Akka France, Lyon, France
+[Akkademy S.A., Switzerland | Akka France, Lyon, France](https://www.akka-technologies.com/akkademy/)
 
 - Developed and deployed AI algorithms for Link&Go self-driving car using Python and optimized performance with C
 - Completed courses in Hadoop, Spark, Unity, and soft skills
@@ -64,9 +64,9 @@ Akkademy S.A., Switzerland | Akka France, Lyon, France
 ----------------
 
 - **Programming Languages:** Python (Advanced), Bash (Intermediate) 
-- **Frameworks:** Apache Beam, Pandas, TensorFlow, TFX, Pytorch, Sci-Kit Learn, LangChain, HuggingFace 
+- **Frameworks:** [Apache Beam](https://beam.apache.org/), [Pandas](https://pandas.pydata.org/), [TensorFlow](https://www.tensorflow.org/), [TFX](https://www.tensorflow.org/tfx), [Pytorch](https://pytorch.org/), [SciKit-Learn](https://scikit-learn.org/stable/), [LangChain](https://langchain.readthedocs.io/), [HuggingFace](https://huggingface.co/)
 - **Databases:** BigQuery, MySQL 
-- **Other Tools and Technologies:** GIT, GCP (Dataflow, CloudBuild, Workflows, CloudFunctions, VertexAI), DVC
+- **Other Tools and Technologies:** GIT, GCP (Dataflow, CloudBuild, Workflows, CloudFunctions, VertexAI), [DVC](https://iterative.ai/)
 - **Functional Skills:** MLOps Principles, Deep Learning models (DCNs, Transformers), Statistical and Probabilistic Analysis, Algebra, Numerical Analysis
 
 :sound: Languages
