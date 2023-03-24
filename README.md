@@ -14,7 +14,7 @@ My projects
 ### Working On
 
 #### Yggdrasil: a huge prompting simplification app
-- [Hermod](github.com/rincon-santi/yggdrasil-hermod-documentation): conversational uses abstraction. Spokesman generation.
+- [Hermod](https://github.com/rincon-santi/yggdrasil-hermod-documentation): conversational uses abstraction. Spokesman generation.
 
 Published content
 -----------------
