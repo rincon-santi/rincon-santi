@@ -17,9 +17,14 @@ Madrid, Spain | rincon.santi@gmail.com
 
 ### Working On
 
-#### Yggdrasil: a huge prompting simplification app
+#### LLM based talks and conferences
 
-- [Hermod](https://github.com/rincon-santi/yggdrasil-hermod-documentation): conversational abstraction. Spokesman generation. Commercialized as ['Spokes'](https://www.spokes-ai.com)
+- [**Fact Fueled AI: Talk To Your Documents** *DevBCN 2024, practical approach to RAG*](https://github.com/rincon-santi/talks-and-conferences/tree/trunk/fact-fueled-ai)
+- [**Talking With AI** *DevBCN 2023, speech to speech conversational agent creation using OS models*](https://github.com/rincon-santi/talks-and-conferences/tree/trunk/talking-to-ai)
+
+#### Yggdrasil: a huge prompting simplification, LLM tuning and RAG as a service app
+
+- "Hermod" conversational abstraction. Spokesman generation. Commercialized as ['Spokes'](https://www.spokesai.com)
 
 :bulb: Published content
 -----------------
