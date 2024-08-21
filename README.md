@@ -5,10 +5,12 @@ Madrid, Spain | rincon.santi@gmail.com
 
  :link:[https://www.linkedin.com/in/santiago-rincon-martinez/]
 
-:dart: Objective
+:dart: Objectives
 ---------
 
-Seeking NLP challenges to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting ([LangChain framework](https://langchain.readthedocs.io/)), and tuning for LLM personalization since November.
+- Seeking NLP challenges to leverage my skills and experience in deep learning and NLP, contributing to the development and improvement of large-scale language models and their applications. Focused on NLP specialization, prompting ([LangChain framework](https://langchain.readthedocs.io/)), and tuning.
+- Working in RAG systems (Vectorial DB based RAG or GraphRAG)
+- Deepening my specialization on MLOps systems, leveraging cloud tools to serve ML models and systematize their development.
 
 :sparkles: My Projects
 -----------
@@ -33,7 +35,18 @@ Mathematics and Informatics Engineering (Double Degree) - Universidad Complutens
 :briefcase: Work Experience
 ---------------
 
-### Machine Learning Lead Engineer (2020 - Present)
+### Machine Learning Operations Engineer (2023 - now)
+
+[Invofox](https://www.invofox.com/)
+
+- Designing and developing inhouse MLOps platform to leverage models through an API
+- Expose the previously mentioned platform as Python SDK to systematize models optimization and Data Scientists' research
+- Applied DevOps and MLOps principles
+- Leveraged AWS, GCP and various OS tools (Docker, ONNX, Pulumi, Gitlab CI...) to build MLOps platform
+- Build using Clean Architecture principles
+- Document and present development plans to stakeholders
+
+### Machine Learning Lead Engineer (2020 - 2023)
 
 [INLAB Digital](https://www.inlabdigital.com/)
 
